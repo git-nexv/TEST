@@ -1,0 +1,6 @@
+name = "noam-nex-v-music"
+compatibility_date = "2025-09-01"
+
+[assets]
+directory = "./"
+not_found_handling = "single-page-application"
